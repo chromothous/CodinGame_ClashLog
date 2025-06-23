@@ -14,3 +14,14 @@ Clash 10: 3rd place out of 5. Create a function that prints a triangle of a shri
 Clash 11: 2nd place out of 7. Create a function that calculates how many rows there are in a given Mosque. Completed in 9 minutes.
 Clash 12: Last place. Create a function that splits a string in two halves and alternates between it's characters and prints the result. Failed.
 
+06/22/2025
+Clash 13: 2nd place out of 5. Create a function that outputs the count of a given attribute with it's value. Completed in 3 minutes.
+Clash 14: Last place out of 4. Guess a function that takes random letters and outputs words. Failed.
+Clash 15: 2nd place out of 5. Create a function that out puts the length of the input and it reversed. 2 minutes.
+Clash 16: 1st place out of 4. Create a function that takes even inputs and multiples them by 2, and odd inputs multipled by 3. 1 minute.
+Clash 17: 4rth place out of 7. Create a function that calculated the remaining experience to level up. 11 minutes.
+Clash 18: 1st place out of 4. Create a function that calculates the difference and sum of two numbers, and then concats them like strings. 1 minute
+Clash 19: 3rd place out of 4. Create a function that calculates the sqrt of the product of max and min of a list of numbers. 3 minutes.
+Clash 20: Very hard function, timed out and last place.
+Clash 21: 2nd place out of 6. Very hard create a function that alternates beteen even and odd ASCII value placement within a string. 12 minutes.
+
