@@ -7,12 +7,12 @@ Clash 3: 3rd place out of 4. Create a function that averages the ASCII value of 
 Clash 4: 1st place out of 4. Create a function that tells the strongest between two characters based on health and strength. Took 2 minutes.
 Clash 5: 2nd place out of 4. Create a function that prints a given input a number of times. Took 1 minute.
 Clash 6: 1st place out of 4. Create a function that calculates f(x) = a * x + b. Took 4 minutes.
->>>>>>>>>>Clash 7: Last place. Create a function that gives the area of land in a 2 dimensional grid. Failed.
+Clash 7: Last place. Create a function that gives the area of land in a 2 dimensional grid. Failed. >>>>>>>>>>>>> Weakness in complicated 2D Array traversal.
 Clash 8: 1st Place out of 4. Create a function that repeats a string a certain number of times. Completed in a minute.
 Clash 9: 1st Place out of 5. Create a function that takes two angles of a triangle and calculates the third angle. Completed in 48 seconds.
 Clash 10: 3rd place out of 5. Create a function that prints a triangle of a shrinking string. Completed in 4 minutes.
 Clash 11: 2nd place out of 7. Create a function that calculates how many rows there are in a given Mosque. Completed in 9 minutes.
-Clash 12: Last place. Create a function that splits a string in two halves and alternates between it's characters and prints the result. Failed.
+Clash 12: Last place. Create a function that splits a string in two halves and alternates between it's characters and prints the result. Failed. >>>>>>>>Understood
 
 06/22/2025
 Clash 13: 2nd place out of 5. Create a function that outputs the count of a given attribute with it's value. Completed in 3 minutes.
