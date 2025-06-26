@@ -7,7 +7,7 @@ Clash 3: 3rd place out of 4. Create a function that averages the ASCII value of 
 Clash 4: 1st place out of 4. Create a function that tells the strongest between two characters based on health and strength. Took 2 minutes.
 Clash 5: 2nd place out of 4. Create a function that prints a given input a number of times. Took 1 minute.
 Clash 6: 1st place out of 4. Create a function that calculates f(x) = a * x + b. Took 4 minutes.
-Clash 7: Last place. Create a function that gives the area of land in a 2 dimensional grid. Failed.
+>>>>>>>>>>Clash 7: Last place. Create a function that gives the area of land in a 2 dimensional grid. Failed.
 Clash 8: 1st Place out of 4. Create a function that repeats a string a certain number of times. Completed in a minute.
 Clash 9: 1st Place out of 5. Create a function that takes two angles of a triangle and calculates the third angle. Completed in 48 seconds.
 Clash 10: 3rd place out of 5. Create a function that prints a triangle of a shrinking string. Completed in 4 minutes.
@@ -24,4 +24,18 @@ Clash 18: 1st place out of 4. Create a function that calculates the difference a
 Clash 19: 3rd place out of 4. Create a function that calculates the sqrt of the product of max and min of a list of numbers. 3 minutes.
 Clash 20: Very hard function, timed out and last place.
 Clash 21: 2nd place out of 6. Very hard create a function that alternates beteen even and odd ASCII value placement within a string. 12 minutes.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+06/25/2025
+
+Clash 22: 1st place out of 6. Calculating whether a given pay can pay for rent. took a minute.
+Clash 23: 3rd place out of 6. Calculating and rounding the number of letters by the number of digits in a given string. Took 5 minutes.
+Clash 24: 1st place out of 5. Calculating the minimum amount of socks to pull from stock based on how many different pairs of socks there are. Took 2 minutes.
+Clash 25: 1st place out of 4. Calculate how many matches would need to be used by someone warding off a tiger based on the needed distance and speed. Took 7 minutes.
+Clash 26: 1st place out of 7. Calculate how many of different kinds of jumps Mario would have to make from on pillar to the next. Took 3 minutes.
+Clash 27: 1st place out of 7. Calculate based on some second variables how many seconds in total it would take to feed, retreive and name cat. Took 3 minutes.
+
+
+
 
