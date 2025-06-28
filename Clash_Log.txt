@@ -37,5 +37,17 @@ Clash 26: 1st place out of 7. Calculate how many of different kinds of jumps Mar
 Clash 27: 1st place out of 7. Calculate based on some second variables how many seconds in total it would take to feed, retreive and name cat. Took 3 minutes.
 
 
+06/26/2025
 
+Clash 29: Final place out of 4. Decryption text based on the digits of pi. Failed.
+Clash 30: Final out of 4. Output didn't make any sense, not my fault.
+Clash 31: Broken output. Shouldn't even be a problem.
+Clash 32: 1st place out of 4. Give the output of the stribg outside of noise. 3 minutes.
+Clash 33: 2nd place out of 4. Calculate, i don't remember...
+Clash 34: 2nd place out of 6. Calculate if a password is true based on whether it has a len better then 8, at least 1 digit, lowercase, and uppercase, 8 minutes.
+Clash 35: Last place out of 4. Calculate a value based on confusing instructions. Placed last place.
+Clash 36: 3rd out of 4. Calculate whether something is an anagram. I'm disappointed in myself.
+Clash 37: Calculate the facotrial of a given number: scored 40% among 4 peers.
+Clash 38: 1st place out of 4: Calculate the given variable by 100 and the iteration of it. Took 56 seconds.
+Clash 39: Last place out of 4: Calculate a given string based on an algorithm. Failed.
 
