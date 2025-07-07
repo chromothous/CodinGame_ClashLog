@@ -51,3 +51,30 @@ Clash 37: Calculate the facotrial of a given number: scored 40% among 4 peers.
 Clash 38: 1st place out of 4: Calculate the given variable by 100 and the iteration of it. Took 56 seconds.
 Clash 39: Last place out of 4: Calculate a given string based on an algorithm. Failed.
 
+07/06/2025
+
+Clash 40: 1st place out of 4: Calculate the given volume of water in a room filled to it's cubic measurements. Took 2 minutes.
+Clash 41: 1st place out of 5: Calculate whether someone could afford rent of a place based on 6 variables, took 2 minutes.
+Clash 42: 2nd place out of 5: Take the first letter of a word, put at the end and add UM, took 2 minutes
+Clash 43: 2nd place out of 5: Give the 2nd minimum of a value in a list, took 7 minutes.
+Clash 44: 2nd place out of 4: Calculate dog years to the amount it would be in human years. Took a minute.
+Clash 45: 1st place out of 4: Calculate the factorial of a number. Took a minute.
+Clash 46: 2nd place out of 4: Calculate the running sum of even numbers from 2 to a given number.: Took a minute
+Clash 47: 4rth place out of 5: Format a string of numbers to be like a phone number: Took 2 minutes.
+Clash 48: 1st place out of 4: Format a new string from the old one that only keeps odd index characters from string: Took 2 minutes.
+Clash 49: 2nd place out of 4: Format a string of numbers with a given range and amount to multiple numbers by: Took 4 minutes.
+Clash 50: 1st place out of 6: Just if statements based on conditions. Took 2 minutes.
+
+------------------------------------------------------------------------------------
+
+Clash 51: 1st place out of 4: Give the odd numbers up to a certain number. Took 58 seconds.
+Clash 52: 2nd place out of 4: Reverse every word in a sentence in the normal order of words. Took 3 minutes.
+Clash 53: 1st place out of 5: Inverse RGB values. Took a minute.
+Clash 54: 2nd place out of 5: split a string up a certain way. Took 9 minutes.
+Clash 55: 3rd place out of 5: Repeat a number of 1s in binary and then convert it to decimal. Took 8 minutes.
+Clash 56: 1st place out of 4: Calculate how many jumps a robot can take from tile to tile. Took a minute.
+Clash 57: 2nd place out of 6: Calculate the square root of the product of two given numbers and round to the nearest tenth. Took 58 seconds.
+
+
+
+
